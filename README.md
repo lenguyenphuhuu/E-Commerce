@@ -1,4 +1,3 @@
-  <h1 align="center"><b>TTB STORE WEBSITE</b></h1>
 - ## ✨ **Tính năng**
 
   - Show các sản phẩm nổi bật, chương trình khuyến mãi...
